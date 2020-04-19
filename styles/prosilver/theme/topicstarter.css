@@ -1,0 +1,9 @@
+.topic_starter {
+	border: 1px solid #DEDEDE;
+	border-radius: 3px;
+	background-color: #E5E5E5;
+	color: #333333;
+	padding: 2px;
+	font-weight: bold;
+	font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
+}

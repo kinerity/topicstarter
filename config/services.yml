@@ -1,0 +1,7 @@
+services:
+    kinerity.topicstarter.listener:
+        class: kinerity\topicstarter\event\main_listener
+        arguments:
+            - '@language'
+        tags:
+            - { name: event.listener }
